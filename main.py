@@ -2,7 +2,7 @@ import requests
 import os
 import time
 
-BOT_TOKEN = os.getenv('TELEGRAM BOTTOKEN')
+BOT_TOKEN = os.getenv('TELEGRAM_BOTTOKEN')
 CHAT_ID = os.getenv('TELEGRAM_ID')
 msg = 'اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ،،/n \n kche bykawa amozatm tawaww basha ble awa manera naynerm tawaww mashykawa chonka meshk taxam saayakawka.'
 
